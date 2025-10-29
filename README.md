@@ -14,3 +14,5 @@ This app Compares two excel files for similarity.
 12. Export button - Exports the result file in excel format.
 
     You can downoload Window Setup from release
+
+https://github.com/rr1428/Excel-Comparator-Pro/releases/tag/Excel_file_comparison
