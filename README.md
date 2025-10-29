@@ -1,6 +1,6 @@
 This app Compares two excel files for similarity.
 
-1. Load master database excek file.
+1. Load master database excel file.
 2. Load second excel file for comparing with master database.
 3. choose row for the header if first row is not a header row for both the files.
 4. Load the excel file.
@@ -14,5 +14,5 @@ This app Compares two excel files for similarity.
 12. Export button - Exports the result file in excel format.
 
     You can downoload Window Setup from release
-
+    
 https://github.com/rr1428/Excel-Comparator-Pro/releases/tag/Excel_file_comparison
