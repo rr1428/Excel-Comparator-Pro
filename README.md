@@ -12,3 +12,5 @@ This app Compares two excel files for similarity.
 10. Clear button - clears out entire window.
 11. Export with row colors option enables to export excel file with or without highlighted row colors.
 12. Export button - Exports the result file in excel format.
+
+    You can downoload Window Setup from release
