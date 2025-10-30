@@ -13,6 +13,10 @@ This app Compares two excel files for similarity.
 11. Export with row colors option enables to export excel file with or without highlighted row colors.
 12. Export button - Exports the result file in excel format.
 
+
+Version 1.1 Update:
+- Checks for the duplicate row in both the excel file and gives warning. After manual removal of duplicate entry, reload the files for comparision.
+
     You can downoload Window Setup from release
     
 https://github.com/rr1428/Excel-Comparision/releases
