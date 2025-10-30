@@ -15,4 +15,4 @@ This app Compares two excel files for similarity.
 
     You can downoload Window Setup from release
     
-https://github.com/rr1428/Excel-Comparator-Pro/releases/tag/Excel_file_comparison
+https://github.com/rr1428/Excel-Comparision/releases
